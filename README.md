@@ -1,7 +1,8 @@
 <!-- HERO SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:141E30,100:243B55&height=220&section=header&text=Sandesh%20Dongaonkar&fontSize=42&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,50:99f2c8,100:1f4037&height=250&section=header&text=Sandesh%20Dongaonkar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20|%20Open%20Source%20Enthusiast&descSize=18&descAlignY=60" />
 </p>
+
 
 
 <p align="center">
