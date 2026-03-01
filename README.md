@@ -71,9 +71,6 @@ Flutter-based medical application with:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana0630&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-diff between above code and this 
-
 # 📈 Activity Overview
 
 <p align="center">
