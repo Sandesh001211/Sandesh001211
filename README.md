@@ -63,12 +63,12 @@ Flutter-based medical application with:
 
 # 📈 GitHub Stats (Accurate)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjana0630&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Sanjana0630&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandesh001211&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Sandesh001211&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana0630&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandesh001211&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 # 📈 Activity Overview
